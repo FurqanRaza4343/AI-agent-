@@ -1,0 +1,4 @@
+langchain 
+langchain-openai
+dotev
+langchain_google_genai
